@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/ITStepJunior/Desktop/dox/termux-app-0.118.0/.github"
+		},
+		{
+			"path": "C:/Users/ITStepJunior/Desktop/dox/termux-app-0.118.0/app"
+		},
+		{
+			"path": "C:/Users/ITStepJunior/Desktop/dox/termux-app-0.118.0/art"
+		},
+		{
+			"path": "C:/Users/ITStepJunior/Desktop/dox/termux-app-0.118.0/fastlane"
+		},
+		{
+			"path": "C:/Users/ITStepJunior/Desktop/dox/termux-app-0.118.0/gradle"
+		},
+		{
+			"path": "C:/Users/ITStepJunior/Desktop/dox/termux-app-0.118.0/terminal-emulator"
+		},
+		{
+			"path": "C:/Users/ITStepJunior/Desktop/dox/termux-app-0.118.0/terminal-view"
+		},
+		{
+			"path": "C:/Users/ITStepJunior/Desktop/dox/termux-app-0.118.0/termux-shared"
+		}
+	]
+}
